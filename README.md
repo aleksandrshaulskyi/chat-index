@@ -1,8 +1,18 @@
+
+
+
+
+
+
+
+
 # Chat index repository.
 
 ## Disclaimer.
 This application is currently in active development state. Most of it's bugs and imperfections are probably very well known.
 They will be fixed in the very close future.
+
+For the sake of convinience in the development process at this very moment database containers are placed next to the respectful microservices.
 
 ## Purpose.
 This is the index repository or meta repository for my chat system that contain various microservices.
